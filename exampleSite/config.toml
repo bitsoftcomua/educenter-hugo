@@ -114,7 +114,7 @@ link = "plugins/filterizr/jquery.filterizr.min.js"
 link = "plugins/google-map/gmap.js"
 [params.preloader]
 enable = true
-preloader = "/images/arielharwick_pencilloadingicon.gif"
+preloader = "/images/7e1b9840eed104a23db7b64998bba60c.gif"
 [params.subscription]
 enable = false
 mailchimp_form_action = "https://gmail.us4.list-manage.com/subscribe/post?u=463ee871f45d2d93748e77cad&amp;id=a0a2c6d074"
