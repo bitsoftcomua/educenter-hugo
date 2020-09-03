@@ -8,15 +8,6 @@ description: |2-
   Ми пропонуємо комплексне програмне рішення для створення систем управління документами та автоматизації ділових процесів. Наша розробка дозволяє забезпечити своєчасний і зручний доступ до корпоративної інформації, структурувати і підвищити ефективність взаємодії співробітників.
 
 ---
-## ABOUT OUR JOURNY
+## Автоматизація бізнес-процесів
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore
-et.dolore magna aliqua. Ut enim ad minim veniam, quis nostrud. Lorem ipsum dolor sit amet consectetur,
-adipisicing elit. Saepe ipsa illo quod veritatis, magni debitis fugiat dolore voluptates! Consequatur,
-aliquid. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quaerat perferendis sint optio similique.
-Et amet magni facilis vero corporis quos.
-
-exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit
-in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Lorem ipsum, dolor sit amet consectetur
-adipisicing elit. Ipsum a, facere fugit error accusamus est officiis vero in, nostrum laboriosam corrupti
-explicabo, cumque repudiandae deleniti perspiciatis quae consectetur enim. Laboriosam!
+Дуже часто для підвищення ефективності роботи підприємства, команди, підвищення контролю керівник стикається з необхідністю автоматизації всього робочого процесу. Ми маємо величезний досвід для різних галузей бізнесу. У нас є безліч готових рішень, які ми вже впровадили і готові зробити для вас, враховуючи специфіку вашого підприємства.
