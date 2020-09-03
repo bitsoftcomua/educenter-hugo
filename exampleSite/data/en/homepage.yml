@@ -32,8 +32,8 @@ slider:
       label: Apply now
       link: contact
 banner_feature:
-  enable: false
-  image: images/banner/banner-feature.png
+  enable: true
+  image: "/images/god2-sistine_chapel.png"
   feature_item:
   - name: Scholorship News
     icon: ti-book
