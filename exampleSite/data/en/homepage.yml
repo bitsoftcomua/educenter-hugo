@@ -12,10 +12,10 @@ slider:
       enable: true
       label: Apply now
       link: contact
-  - title: Your bright future is our mission
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et magna aliqua. Ut enim ad minim veniam, quis nostrud
-      exer
+  - title: Наша гордость -
+    content: Более 100  реализованных проектов, многие из которых – государственной
+      важности, в социальной, общественно-политической и финансовой сферах, медицине
+      и энергетике.
     animation_in: left
     animation_out: right
     button:
