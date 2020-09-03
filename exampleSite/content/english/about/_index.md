@@ -1,6 +1,6 @@
 ---
 title: About Us
-bg_image: images/backgrounds/page-title.jpg
+bg_image: pexels-aleksandar-pasaric-3164031.jpg
 image: images/about/about-page.jpg
 description: |2-
 
