@@ -72,7 +72,7 @@ name = "blog"
 weight = 4
 [[menu.main]]
 URL = "contact"
-name = "Contact"
+name = "Контакти"
 weight = 5
 [params]
 address = "9567 Turner Trace Apt. BC C3G8A4"
