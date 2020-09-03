@@ -1,7 +1,7 @@
 ---
 title: About Us
-bg_image: pexels-aleksandar-pasaric-3164031.jpg
-image: images/about/about-page.jpg
+bg_image: "/images/pexels-aleksandar-pasaric-3164031.jpg"
+image: "/images/pexels-lex-photography-1109541.jpg"
 description: |2-
 
   Електронний документообіг
