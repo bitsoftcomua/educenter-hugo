@@ -2,12 +2,19 @@
 title: Інтелектуальний Центр Реабілітації
 date: '2019-07-06T15:27:17.000+06:00'
 <<<<<<< HEAD
+<<<<<<< HEAD
 bg_image: "/images/pexels-aleksandar-pasaric-3164031.jpg"
 description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
   tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis
   nostrud.
 image: "/images/pexels-lukas-296301.jpg"
 
+=======
+bg_image: "/images/icr_bg.jpg"
+description: ''
+image: "/images/1.jpg"
+
+>>>>>>> 7144dacc1ab11bebf9052b27fa14e0f28db2b674
 =======
 bg_image: "/images/icr_bg.jpg"
 description: ''
