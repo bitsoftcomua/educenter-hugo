@@ -20,7 +20,3 @@ fields:
   name: apply_url
   label: apply_url
   description: Application submit link
-- type: text
-  name: type
-  label: type
-  default: course
