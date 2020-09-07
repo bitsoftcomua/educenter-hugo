@@ -16,7 +16,3 @@ fields:
 - type: file
   name: image
   label: image
-- type: text
-  name: apply_url
-  label: apply_url
-  description: Application submit link
