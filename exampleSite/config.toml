@@ -45,7 +45,7 @@ name = "Контакти"
 weight = 4
 [[menu.main]]
 URL = "blog"
-name = "blog"
+name = "Послуги"
 weight = 3
 [[menu.main]]
 URL = "course"
