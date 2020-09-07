@@ -5,7 +5,7 @@ bg_image: "/images/pexels-bongkarn-thanyakij-3758748-2.jpg"
 description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
   tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis
   nostrud.
-image: "/images/evo.jpg"
+image: "/images/evo-1.jpg"
 category: Photography
 teacher: Duis Rio
 duration: 06 Month
