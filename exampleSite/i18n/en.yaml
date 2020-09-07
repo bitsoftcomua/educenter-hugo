@@ -25,12 +25,6 @@
   translation: Apply now
 - id: posted_by
   translation: Posted by
-- id: date
-  translation: Date
-- id: time
-  translation: time
-- id: category
-  translation: Category
 - id: related_course
   translation: Related Course
 - id: location
