@@ -10,7 +10,7 @@ slider:
     animation_out: right
     button:
       enable: true
-      label: Apply now
+      label: Докладніше
       link: contact
   - title: Наша гордость -
     content: Более 100  реализованных проектов, многие из которых – государственной
@@ -20,7 +20,7 @@ slider:
     animation_out: right
     button:
       enable: true
-      label: Apply now
+      label: Докладніше
       link: contact
   - title: 'Наши принципы  - '
     content: высочайшая ответственность, построение долговременных, стратегических
@@ -29,7 +29,7 @@ slider:
     animation_out: right
     button:
       enable: true
-      label: Apply now
+      label: Докладніше
       link: contact
 banner_feature:
   enable: true
