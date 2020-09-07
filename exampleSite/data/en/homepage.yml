@@ -35,15 +35,15 @@ banner_feature:
   enable: true
   image: "/images/pexels-lex-photography-1109541.jpg"
   feature_item:
-  - name: Scholorship News
+  - name: Досвід
     icon: ti-book
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
       tempor incididunt ut labore  dolore magna aliqua. Ut enim ad
-  - name: Our Notice Board
+  - name: Технології
     icon: ti-blackboard
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
       tempor incididunt ut labore  dolore magna aliqua. Ut enim ad
-  - name: Our Achievements
+  - name: Гарантії
     icon: ti-agenda
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
       tempor incididunt ut labore  dolore magna aliqua. Ut enim ad
@@ -67,8 +67,8 @@ about:
     label: Learn more
     link: about
 course:
-  enable: false
-  title: Our Course
+  enable: true
+  title: Наші проекти
 cta:
   enable: false
   subtitle: Click to Join the Advance Workshop
