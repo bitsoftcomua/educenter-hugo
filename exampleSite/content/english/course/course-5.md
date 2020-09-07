@@ -5,7 +5,7 @@ bg_image: "/images/pexels-lukas-296301.jpg"
 description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
   tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis
   nostrud.
-image: "/images/pexels-aleksandar-pasaric-3164031.jpg"
+image: "/images/pexels-lukas-296301.jpg"
 category: Programming
 teacher: Zim Cook
 duration: 06 Month
