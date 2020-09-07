@@ -33,7 +33,7 @@ slider:
       link: contact
 banner_feature:
   enable: true
-  image: "/images/pexels-snapwire-618613.jpg"
+  image: "/images/pexels-fauxels-3183165-1.jpg"
   feature_item:
   - name: Досвід
     icon: ti-book
