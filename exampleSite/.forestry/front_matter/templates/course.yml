@@ -17,10 +17,6 @@ fields:
   name: image
   label: image
 - type: text
-  name: weekly
-  label: weekly
-  description: Course time per week
-- type: text
   name: apply_url
   label: apply_url
   description: Application submit link
