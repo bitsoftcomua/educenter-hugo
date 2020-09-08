@@ -2,9 +2,8 @@
 title: Медична інформаційна система Evomis.Ehealth
 date: '2019-07-06T15:27:17.000+06:00'
 bg_image: "/images/pexels-bongkarn-thanyakij-3758748-2.jpg"
-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-  tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis
-  nostrud.
+description: Медична інформаційна система EvoMIS — це ІТ-платформа ефективної автоматизації
+  медичного закладу.
 image: "/images/evo-1.jpg"
 category: Photography
 teacher: Duis Rio
@@ -14,47 +13,51 @@ fee: 'From: $699'
 apply_url: "#"
 
 ---
-### About Course
+### Про продукт
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.</p>
+**Електронна карта пацієнта**
 
-### Requirements
+Ведення медичних записів, взаємодія з діагнозами (класифікатор ICD-10 AM), перелік обстежень процедур та послуг (кодування за LOINC, ACHI)  
+  
+Виписки зі стаціонару з вказанням заключного діагнозу, переліку наданих процедур/хірургічних втручань/маніпуляцій, переліком обстежень, даних про госпіталізацію  
+Діагностичні звіти з класифікатором послуг за ACHI та переліком необхідних обстежень.</p>
 
+![](/images/6.png)
 
+**Реєстрація в eHealth**
 
-* Lorem ipsum dolor sit amet consectetur adipisicing elit.
-* Lorem ipsum dolor sit amet consectetur adipisicing elit.
-* Lorem ipsum dolor sit amet consectetur adipisicing elit.
-* Lorem ipsum dolor sit amet consectetur adipisicing elit.
+повний функціонал для медзакладу
 
+**Пошук пацієнтів в eHealth**
 
-### How to Apply
+можливість прийому пацієнтів без декларації
 
-* Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae obcaecati unde nulla?
-* Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae obcaecati unde nulla?
-* Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae obcaecati unde nulla?
-* Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae obcaecati unde nulla?
-* Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae obcaecati unde nulla?
+![](/images/4.png)
 
+**Реєстр виписаних направлень**
 
-### Fees and Funding
+на консультацію, діагностичні та лабораторні послуги, госпіталізацію
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.
+![](/images/9.png)
+
+**Реєстр погашених направлень**
+
+вхідні направлення від лікарів первинної ланки
+
+**Погашення направлень**
+
+за допомогою наданих послуг/  
+пролікованих випадків (взаємодій  
+та діагностичних звітів)
+
+![](/images/7.png)![](/images/8.png)
+
+**Конструктор**
+
+конструктор шаблонів медичних документів
+
+![](/images/5.png)
+
+**Програма «Доступні ліки»**
+
+створення електронного рецепту
