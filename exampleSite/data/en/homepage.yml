@@ -47,8 +47,9 @@ banner_feature:
       сучасні технології та інноваційні рішення.
   - name: Гарантії
     icon: ti-agenda
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore  dolore magna aliqua. Ut enim ad
+    content: Ми реалізували і виконали багато проектів в галузі медицини. До нас,
+      як до експертів з розробки медичних програм, звертаються інші компанії-постачальники
+      МІС, ЛІС
   - name: Admission Now
     icon: ti-write
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
