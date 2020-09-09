@@ -36,7 +36,7 @@ banner_feature:
   enable: true
   image: "/images/pexels-fauxels-3183165-1.jpg"
   feature_item:
-  - name: Команда
+  - name: Професіоналізм
     icon: ti-book
     content: 'Ми - розробники програмного забезпечення у різних галузях та з впровадженням
       у багатьох країнах світу, що дозволило нам створити велику команду фахівців
