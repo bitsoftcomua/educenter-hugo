@@ -12,24 +12,6 @@ slider:
       enable: true
       label: Докладніше
       link: contact
-  - title: 'Результат співпраці з нами '
-    content: ''
-    animation_in: left
-    animation_out: right
-    button:
-      enable: true
-      label: Докладніше
-      link: contact
-  - title: Наші переваги
-    content: До штату співробітників входять висококваліфіковані програмісти, а також
-      аналітики та інші фахівці, які мають величезний досвід у проектуванні та впровадженні
-      автоматизованих інформаційних систем
-    animation_in: left
-    animation_out: right
-    button:
-      enable: true
-      label: Докладніше
-      link: contact
 banner_feature:
   enable: true
   image: "/images/pexels-fauxels-3183165-1.jpg"
