@@ -20,14 +20,6 @@ languageCode = "fr-fr"
 languageName = "Fr"
 weight = 2
 [[menu.footer]]
-URL = "research"
-name = "research"
-weight = 1
-[[menu.footer]]
-URL = "scholarship"
-name = "scholarship"
-weight = 2
-[[menu.footer]]
 URL = "event"
 name = "event"
 weight = 3
