@@ -9,7 +9,7 @@ slider:
     animation_in: left
     animation_out: right
     button:
-      enable: true
+      enable: false
       label: Докладніше
       link: contact
   - title: 'Простота, функціональність та ефективність '
@@ -19,7 +19,7 @@ slider:
     animation_in: left
     animation_out: right
     button:
-      enable: true
+      enable: false
       label: Докладніше
       link: contact
   - title: Наші послуги спрямовані на розвиток Вашого бізнесу
@@ -27,7 +27,7 @@ slider:
     animation_in: left
     animation_out: right
     button:
-      enable: true
+      enable: false
       label: Докладніше
       link: contact
 banner_feature:
