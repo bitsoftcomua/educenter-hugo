@@ -38,8 +38,9 @@ banner_feature:
   feature_item:
   - name: Досвід
     icon: ti-book
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore  dolore magna aliqua. Ut enim ad
+    content: 'Ми - розробники програмного забезпечення у різних галузях та з впровадженням
+      у багатьох країнах світу, що дозволило нам створити велику команду фахівців
+      з високими компетенціями і багаторічним досвідом. '
   - name: Технології
     icon: ti-blackboard
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
