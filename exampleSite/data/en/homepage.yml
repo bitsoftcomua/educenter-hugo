@@ -3,19 +3,13 @@ slider:
   enable: true
   bg_image: "/images/pexels-marc-mueller-380769.jpg"
   slider_item:
-  - title: Наші послуги спрямовані на розвиток вашого бізнесу
-    content: Будучи першокласною компанією з розробки програмного забезпечення, партнерство
-      з нами підніме ваш бізнес на принципово новий якісний рівень
-    animation_in: ''
-    animation_out: ''
-    button: ''
   - title: Автоматизація бізнес процесів вашого підприємства, процесів збору і обробки
       даних. Підвищення ефективності роботи персоналу
     content: Програмні рішення для удосконалення управління бізнесом
     animation_in: left
     animation_out: right
     button:
-      enable: true
+      enable: false
       label: Докладніше
       link: contact
   - title: Поєднання глибокого досвіду та новітніх ІТ-технологій дозволяє розробляти
@@ -25,9 +19,14 @@ slider:
     animation_in: left
     animation_out: right
     button:
-      enable: true
+      enable: false
       label: Докладніше
       link: contact
+  - title: Партнерство з нами підніме ваш бізнес на принципово новий якісний рівень
+    content: 'Наші послуги спрямовані на розвиток Вашого бізнесу '
+    animation_in: left
+    animation_out: right
+    button: ''
 banner_feature:
   enable: true
   image: "/images/pexels-fauxels-3183165-1.jpg"
