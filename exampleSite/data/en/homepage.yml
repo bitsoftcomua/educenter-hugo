@@ -9,7 +9,7 @@ slider:
     animation_in: left
     animation_out: right
     button:
-      enable: false
+      enable: true
       label: Докладніше
       link: contact
   - title: Поєднання глибокого досвіду та новітніх ІТ-технологій дозволяє розробляти
@@ -19,14 +19,17 @@ slider:
     animation_in: left
     animation_out: right
     button:
-      enable: false
+      enable: true
       label: Докладніше
       link: contact
   - title: Партнерство з нами підніме ваш бізнес на принципово новий якісний рівень
     content: 'Наші послуги спрямовані на розвиток Вашого бізнесу '
     animation_in: left
     animation_out: right
-    button: ''
+    button:
+      enable: true
+      label: Докладніше
+      link: contact
 banner_feature:
   enable: true
   image: "/images/pexels-fauxels-3183165-1.jpg"
