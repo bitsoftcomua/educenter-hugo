@@ -3,6 +3,21 @@ slider:
   enable: true
   bg_image: "/images/pexels-marc-mueller-380769.jpg"
   slider_item:
+  - title: Поєднання глибокого досвіду та новітніх ІТ-технологій дозволяє розробляти
+      власні рішення та продукти, які ідеально відповідають потребам та поведінці
+      користувачів.
+    content: 'Простота, функціональність та ефективність '
+    animation_in: left
+    animation_out: right
+    button:
+      enable: true
+      label: Докладніше
+      link: contact
+  - title: Наші послуги спрямовані на розвиток вашого бізнесу
+    content: ''
+    animation_in: ''
+    animation_out: ''
+    button: ''
   - title: Програмні рішення для удосконалення управління бізнесом
     content: Автоматизація бізнес процесів вашого підприємства, процесів збору і обробки
       даних. Підвищення ефективності роботи персоналу
@@ -12,15 +27,6 @@ slider:
       enable: true
       label: Докладніше
       link: contact
-  - title: Наші послуги спрямовані на розвиток вашого бізнесу
-    content: Будучи першокласною компанією з розробки програмного забезпечення, партнерство
-      з нами підніме ваш бізнес на принципово новий якісний рівень
-    animation_in: left
-    animation_out: right
-    button:
-      enable: true
-      label: Докладніше
-      link: about
 banner_feature:
   enable: true
   image: "/images/pexels-fauxels-3183165-1.jpg"
