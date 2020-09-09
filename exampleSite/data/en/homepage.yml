@@ -3,10 +3,9 @@ slider:
   enable: true
   bg_image: "/images/pexels-marc-mueller-380769.jpg"
   slider_item:
-  - title: Ми пропонуємо
-    content: 'програмні рішення для повного контролю вашого біснесу
-
-'
+  - title: Програмні рішення для удосконалення управління бізнесом
+    content: Автоматизація бізнес процесів вашого підприємства, процесів збору і обробки
+      даних. Підвищення ефективності роботи персоналу
     animation_in: left
     animation_out: right
     button:
@@ -14,8 +13,7 @@ slider:
       label: Докладніше
       link: contact
   - title: 'Результат співпраці з нами '
-    content: Автоматизація бізнес процесів вашого підприємства, процесів збору і обробки
-      даних. Підвищення ефективності роботи персоналу
+    content: ''
     animation_in: left
     animation_out: right
     button:
